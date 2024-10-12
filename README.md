@@ -19,8 +19,7 @@ To use the YouTube Subtitle Extractor, you need to install the required librarie
 1. **Clone the repository or download the script**:
    ```bash
    git clone https://github.com/thaaru05/youtube-subtitle-extractor.git
-   cd youtube-subtitle-extractor
-
+  
 
 2. **Install the necessary libraries**:
    Use pip to install the required libraries:
