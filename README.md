@@ -18,7 +18,7 @@ To use the YouTube Subtitle Extractor, you need to install the required librarie
 
 1. **Clone the repository or download the script**:
    ```bash
-   git clone https://github.com/your_username/youtube-subtitle-extractor.git
+   git clone https://github.com/thaaru05/youtube-subtitle-extractor.git
    cd youtube-subtitle-extractor
 
 
@@ -54,12 +54,3 @@ Contributions are welcome! If you would like to enhance the project, please foll
 3. **Commit your changes** (`git commit -m 'Add some feature'`).
 4. **Push to the branch** (`git push origin feature/AmazingFeature`).
 5. **Open a pull request**.
-
-Please ensure your code adheres to the existing code style and includes appropriate tests.
-```
-
-### Instructions for Use:
-- Replace `your_username` in the clone URL with your actual GitHub username.
-- You can add any additional information or sections that might be relevant to your project.
-
-This README format provides a clear overview of the project, its features, and instructions for installation, usage, and contributing, making it suitable for GitHub.
