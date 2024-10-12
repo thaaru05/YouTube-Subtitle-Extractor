@@ -43,13 +43,3 @@ The main functionality of the script is encapsulated in the `get_youtube_subtitl
 ## Error Handling
 
 The script includes basic error handling. If an error occurs (for example, if the video has no available subtitles or the URL is invalid), the function will print an error message to the console. Users can enhance this feature by implementing more specific error handling for different scenarios (e.g., network issues, video ID extraction failures).
-
-## Contributing
-
-Contributions are welcome! If you would like to enhance the project, please follow these steps:
-
-1. **Fork the repository**.
-2. **Create your feature branch** (`git checkout -b feature/AmazingFeature`).
-3. **Commit your changes** (`git commit -m 'Add some feature'`).
-4. **Push to the branch** (`git push origin feature/AmazingFeature`).
-5. **Open a pull request**.
