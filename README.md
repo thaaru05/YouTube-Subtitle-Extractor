@@ -1,8 +1,5 @@
 # YouTube-Subtitle-Extractor
 
-Here’s the revised documentation for your **YouTube Subtitle Extractor** project, suitable for a GitHub README file without the example, license, and contact sections:
-
-```markdown
 # YouTube Subtitle Extractor
 
 ## Overview
@@ -23,7 +20,7 @@ To use the YouTube Subtitle Extractor, you need to install the required librarie
    ```bash
    git clone https://github.com/your_username/youtube-subtitle-extractor.git
    cd youtube-subtitle-extractor
-   ```
+
 
 2. **Install the necessary libraries**:
    Use pip to install the required libraries:
